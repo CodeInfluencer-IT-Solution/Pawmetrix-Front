@@ -242,7 +242,7 @@ header {
 .why-section .img img {
     display: block;
     width: 100%;
-    height: 644px;
+    /*height: 644px;*/
 }
 
 .why-section .text-grid {
@@ -327,7 +327,7 @@ header {
     display: block;
     object-fit: cover;
     width: 100%;
-    height: 320px;
+    /*height: 320px;*/
 }
 
 .more-feature .grid h3 {
